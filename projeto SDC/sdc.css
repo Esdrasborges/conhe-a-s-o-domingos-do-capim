@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(169, 182, 182, 0.637);
+}
+
+#principal {
+    background-color: azure;
+    margin: 10px auto;
+    width: 800px ;
+    text-align: center;
+}
+
+#imagem {
+   text-align: center;
+   margin-top: 50px; 
+}
+

@@ -1,2 +1,2 @@
-# conhe-a-s-o-domingos-do-capim
+# sdc-pa
 site relacionado a conhecer são domingos do capim-pa

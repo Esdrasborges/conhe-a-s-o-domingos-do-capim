@@ -5,12 +5,36 @@ body {
 #principal {
     background-color: azure;
     margin: 10px auto;
-    width: 800px ;
+    width: 100%px ;
     text-align: center;
+    border: 2px solid blue;
 }
 
 #imagem {
    text-align: center;
-   margin-top: 50px; 
+   margin-top: 30px; 
+  margin-bottom: 30px;
+}
+
+.espaço {
+    margin-right: 10px;
+}
+
+.menu {
+    background-color: azure;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    text-decoration: none;
+    padding: 8px;
+    text-align: center;
+    border: 2px solid blue;
+}
+
+.ancora {
+    font-size: 25px;
+    color: black;
+    height: 6px;
+    padding: 15px;
+    margin: 20px;
+    text-align: center;  
 }
 

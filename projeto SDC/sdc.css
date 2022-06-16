@@ -21,6 +21,7 @@ body {
     margin: 5px;
 }
 
+
 .espaço {
     margin-right: 10px;
 }
@@ -46,6 +47,17 @@ body {
 .botao {
     background-color: rgb(182, 235, 235);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin: 5px;
+    margin: 7px;
 }
+
+.cont {
+    border: 1px outset blue;
+    width: 400px;
+    margin: 5px;
+    background: azure;
+    padding: 10px;
+    float: left;
+  
+}
+
 

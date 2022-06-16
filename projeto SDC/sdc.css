@@ -16,6 +16,11 @@ body {
   margin-bottom: 30px;
 }
 
+#text {
+    text-align: justify;
+    margin: 5px;
+}
+
 .espaço {
     margin-right: 10px;
 }
@@ -24,7 +29,7 @@ body {
     background-color: azure;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
     text-decoration: none;
-    padding: 8px;
+    padding: px;
     text-align: center;
     border: 2px solid blue;
 }
@@ -36,5 +41,11 @@ body {
     padding: 15px;
     margin: 20px;
     text-align: center;  
+}
+
+.botao {
+    background-color: rgb(182, 235, 235);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 5px;
 }
 

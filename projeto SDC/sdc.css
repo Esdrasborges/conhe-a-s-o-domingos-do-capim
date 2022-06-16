@@ -56,8 +56,12 @@ body {
     margin: 5px;
     background: azure;
     padding: 10px;
-    float: left;
-  
+    float: left; 
+    
+}
+
+.clear {
+    clear: left;
 }
 
 
